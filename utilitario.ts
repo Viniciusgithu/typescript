@@ -1,3 +1,11 @@
+/* 
+
+ Tipos Utilitários:
+ Manipular os tipos de forma eficiente
+ Permite transformar tipos existentes de maneira limpa e reutilizável
+ Uma forma de trabalhar com tipagem
+
+*/
 
 interface soccerTeam {
   name: string
